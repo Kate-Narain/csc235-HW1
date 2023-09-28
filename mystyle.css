@@ -1,0 +1,30 @@
+table.stretch {
+	width: 100%;
+}
+
+.backgroundPurp {
+	background-color: #9999FF;
+}
+
+.lightPurpText {
+	color: #CC99FF;
+	
+}
+
+.upper {text-transform: uppercase}
+
+.sans {
+	font-family: sans-serif;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bigFont {
+	font-size: 30pt;
+}
+
+.over { 
+	text-decoration: overline;
+}
